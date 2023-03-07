@@ -1,3 +1,7 @@
+# memo to self
+
+if the text you drop into the /training/ folder is all in markdown .md, then you're golden. If it's *.txt then whoops, change l9 in intializeStore.js
+
 # LangChain.js LLM Template
 
 This is a LangChain LLM template that allows you to train your own custom AI model on any data you want.
